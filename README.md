@@ -12,6 +12,8 @@ Singla, D., Anurag, M., Dash, D., & Raghava, G. P. S. (2011).
 **A web server for predicting inhibitors against bacterial target GlmU protein.** *BMC Pharmacology*, 11, 5. 
 [https://doi.org/10.1186/1471-2210-11-5](https://doi.org/10.1186/1471-2210-11-5)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20140080)
+
 ---
 
 ## About the Platform
