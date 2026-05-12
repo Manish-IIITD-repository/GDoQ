@@ -1,4 +1,4 @@
-# GlmUpred: A Web Server for Predicting Inhibitors Against Bacterial Target GlmU
+# GDoQ: A Web Server for Predicting Inhibitors Against Bacterial Target GlmU
 
 Welcome to the official documentation for **GlmUpred**, a specialized computational resource developed to identify and design inhibitors against the bacterial GlmU protein. The GlmU protein is a bifunctional enzyme essential for the synthesis of peptidoglycan and lipopolysaccharide in bacteria, making it an attractive target for developing new antibacterial agents, particularly against drug-resistant strains like *Mycobacterium tuberculosis*.
 
