@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **GlmUpred**, a specialized computational resource developed to identify and design inhibitors against the bacterial GlmU protein. The GlmU protein is a bifunctional enzyme essential for the synthesis of peptidoglycan and lipopolysaccharide in bacteria, making it an attractive target for developing new antibacterial agents, particularly against drug-resistant strains like *Mycobacterium tuberculosis*.
 
-**Web Server:** [http://crdd.osdd.net/raghava/glmupred/](http://crdd.osdd.net/raghava/glmupred/)
+**Web Server:** [https://webs.iiitd.edu.in/raghava/gdoq](https://webs.iiitd.edu.in/raghava/gdoq)
 
 ---
 
